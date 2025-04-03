@@ -1,7 +1,9 @@
+import TextComponent from "./TestComponent";
+
 function App() {
   return (
     <>
-      <h1>hello </h1>
+      <TextComponent />
     </>
   );
 }
