@@ -10,7 +10,7 @@ import "./App.css";
 
 2. Use an arrow function(callback function) if you need to pass arguments.
 
-imp-: The on click method in React expects a function reference.
+imp-: The on click method in React expects a function reference. 
 You can't directly pass parameters inside the function, instead, you need to pass it as a reference or use arrow function syntax
 
  Que-:What is the problem with passing the function directly with arugment without passing it as callback arrow function.
